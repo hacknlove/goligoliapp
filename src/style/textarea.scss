@@ -1,0 +1,20 @@
+.dialogue {
+  margin: 0 0 24px;
+  line-height: 24px;
+}
+.dialogue.pre {
+  color: DarkGray;
+}
+.dialogue.pre >.role {
+  color: SteelBlue;
+}
+.dialogue.main {
+  color: #000;
+}
+.dialogue.main>.role {
+  font-weight: bolder;
+  color: midnightblue;
+}
+.dialogue.continue {
+  margin-bottom: 0;
+}

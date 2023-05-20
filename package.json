@@ -1,0 +1,15 @@
+{
+  "name": "goligoliapp",
+  "scripts": {
+    "start": "parcel",
+    "build": "parcel build"
+  },
+  "browserslist": "> 0.5%, last 2 versions, not dead",
+  "devDependencies": {
+    "@parcel/transformer-sass": "^2.8.3",
+    "parcel": "^2.8.3"
+  },
+  "source": [
+    "src/index.html"
+  ]
+}
