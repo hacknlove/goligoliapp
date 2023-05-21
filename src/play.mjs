@@ -144,6 +144,16 @@ function MAIN() {
     if (event.target.classList.contains("hidden-word")) {
       event.target.classList.toggle("revealed");
     }
+    if (event.target.classList.contains("role") && event.target.classList.contains("true")) {
+      const howManyHidden = event.target.parentElement.querySelectorAll(".hidden-word:not(.revealed)").length;
+      event.target.parentElement.querySelectorAll(".hidden-word").forEach(element => {
+        if (howManyHidden > 1) {
+          element.classList.add("revealed");
+        } else {
+          element.classList.remove("revealed");
+        }
+      });
+    }
   });
 }
 
@@ -185,7 +195,6 @@ function updatePlayArea() {
 }
 
 function gaps(text) {
-  debugger
   const notes = []
   text = text.replaceAll(/\(.*?\)/g, note => {
     notes.push(note);
