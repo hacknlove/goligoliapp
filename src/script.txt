@@ -296,8 +296,7 @@ TESEO: Levantaros. Sé que vosotros dos sois enemigos. ¿De dónde viene este ma
 LISANDRA: No sé qué decir. Estoy medio dormido, medio despierto. Juro que no sé cómo he venido a parar aquí… (Recordando) ¡Ah… sí…, ahora recuerdo… Llegué aquí con Hermia (Se miran y vuelven a quererse, se cogen de la mano) Queríamos huir de Atenas.
 EGEA: Ya he oído bastante. Por fortuna no lo han conseguido. Querían burlarse de mí y de ti también, Demetrio. Todo el peso de la ley debe caer sobre ellos, Teseo.
 DEMETRIO: Señor, Elena me reveló su fuga y los hemos seguido hasta este bosque. Yo no sé cómo ha sido, habrá sido obra de algún poder misterioso…, pero mi amor por Hermia se ha derretido como la nieve. Amo a Elena, a ella estuve prometido antes que a Hermia. Yo la despreciaba, como el enfermo desprecia los alimentos, pero ya he recobrado la salud. (Toma a Elena de la mano)
-TESEO: ¡Ah! Entonces todo está arreglado. Ya nos contaréis después vuestra aventura. Egea, es preciso que tu voluntad se doblegue ante la mía. Hoy es un día feliz para mí y quiero que estas dos parejas se unan al mismo tiempo que nosotros. Lo celebraremos todos juntos. Será una gran fiesta. (A Egea) Dime, amiga,
-qué hay preparado para divertirnos durante el banquete?
+TESEO: ¡Ah! Entonces todo está arreglado. Ya nos contaréis después vuestra aventura. Egea, es preciso que tu voluntad se doblegue ante la mía. Hoy es un día feliz para mí y quiero que estas dos parejas se unan al mismo tiempo que nosotros. Lo celebraremos todos juntos. Será una gran fiesta. (A Egea) Dime, amiga, qué hay preparado para divertirnos durante el banquete?
 EGEA: Una obra de teatro, señor, pero es una pieza muy corta. Tiene una docena de palabras y aún sobran la mitad porque no hay ni una palabra oportuna. Además cada actor la recita con tan poca maña que provoca la risa en medio de la tragedia de sangre y fuego.
 TESEO: ¿Quién la representa?
 EGEA: Hombres rudos, artesanos de Atenas, que jamás cultivaron la mente, pero que llenos de alegría ante la boda de su señor no han dudado en hacer el esfuerzo que representa cargar de palabras su memoria.
@@ -313,7 +312,7 @@ LISANDRA: Y nos invitó a acompañarlo. Vayamos pues y mientras nos contaremos n
 NOTA: (Música transición, entran las tres parejas)
 TESEO: Que comience la fiesta con este dramón. Que vengan los actores.
 TESEO: Acomodaos, amigos. Sentémonos para ver el espectáculo.
-NOTA (Se sientan todos. Se abre la cortina del fondo y aparecen los personajes: El Prólogo, Píramo, Tisbe, el Muro, el Claro de Luna y el León)
+NOTA: (Se sientan todos. Se abre la cortina del fondo y aparecen los personajes: El Prólogo, Píramo, Tisbe, el Muro, el Claro de Luna y el León)
 PROLOGO: RETOCARÁ INMA Y SE PONDRÁ EN OFF
 TESEO: Y yo me pregunto: ¿hablará el león?
 DEMETRIO: No me asombraría lo más mínimo, alteza. Un león bien puede hablar cuando tantos asnos le dan ejemplo.

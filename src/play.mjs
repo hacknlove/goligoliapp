@@ -185,9 +185,10 @@ function updatePlayArea() {
 }
 
 function gaps(text) {
+  debugger
   const notes = []
-  text = text.replaceAll(/\(.*?\)/g, () => {
-    notes.push(arguments[0]);
+  text = text.replaceAll(/\(.*?\)/g, note => {
+    notes.push(note);
     return `$[${notes.length - 1}]`;
   })
 
@@ -211,7 +212,6 @@ function gaps(text) {
     wordsToRemove--;
   }
 
-
   let i = 0;
 
   text = text.replace(/[^\s]+/g, (word) => {
@@ -224,7 +224,6 @@ function gaps(text) {
     }
     return word;
   });
-
 
   return text;
 }

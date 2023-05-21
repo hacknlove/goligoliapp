@@ -2,7 +2,8 @@
   "name": "goligoliapp",
   "scripts": {
     "start": "parcel",
-    "build": "parcel build"
+    "build": "parcel build",
+    "deploy": "wrangler pages publish ./dist/"
   },
   "browserslist": "> 0.5%, last 2 versions, not dead",
   "devDependencies": {
