@@ -3,7 +3,7 @@
   "scripts": {
     "start": "parcel",
     "build": "parcel build",
-    "deploy": "wrangler pages publish ./dist/"
+    "deploy": "wrangler pages deploy ./dist/ --project-name los-errores-de-nuestros-padres"
   },
   "browserslist": "> 0.5%, last 2 versions, not dead",
   "devDependencies": {
