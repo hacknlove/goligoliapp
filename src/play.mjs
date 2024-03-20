@@ -15,7 +15,7 @@ function parse() {
   let currentScene;
   let currentRole;
 
-  const roleMatcher = /(^[A-Z 0-9_-]+):\s*(.*)$/;
+  const roleMatcher = /(^[A-Z 0-9_,-]+):\s*(.*)$/;
 
   const lines = script.split("\n");
 
@@ -34,8 +34,10 @@ function parse() {
     if (lineWithRole) {
       currentRole = lineWithRole[1];
       if (!currentRole !== "NOTA") {
-        roles.add(currentRole);
-        currentScene.roles.add(currentRole);
+        currentRole.split(",").forEach(role => {
+          roles.add(role)
+          currentScene.roles.add(currentRole);
+        });
       }
       line = lineWithRole[2];
     }
@@ -181,12 +183,13 @@ function updatePlayArea() {
       html += `<p class="dialogue main ${continueIfNotLast(scene, i)}">${insertRoleIfNew(scene, i, true)}${scene.lines[i].text}</p>`;
       continue;
     }
-    if (scene.lines[i].role === currentRole) {
+    console.log(scene.lines[i].role, currentRole);
+    if (scene.lines[i].role.split(',').includes(currentRole)) {
       html += `<p class="dialogue main ${continueIfNotLast(scene, i)}">${insertRoleIfNew(scene, i, true)}${gaps(scene.lines[i].text)}</p>`;
       continue;
     }
 
-    if (scene.lines[i + 1]?.role === currentRole) {
+    if (scene.lines[i + 1]?.role.split(',').includes(currentRole)) {
       html += `<p class="dialogue pre"><span class="role">${scene.lines[i].role}</span>: ${scene.lines[i].text}</p>`;
       continue;
     }
