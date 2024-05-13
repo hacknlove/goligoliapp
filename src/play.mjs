@@ -15,7 +15,7 @@ function parse() {
   let currentScene;
   let currentRole;
 
-  const roleMatcher = /(^[A-Z 0-9_,-]+):\s*(.*)$/;
+  const roleMatcher = /(^[A-Z 0-9_,ÑÁÉÍÓÚÜ-]+):\s*(.*)$/;
 
   const lines = script.split("\n");
 
