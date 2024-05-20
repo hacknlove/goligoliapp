@@ -27,9 +27,9 @@ MARIAM: Tía, ese hombre se está cebando.
 KATRINA: Mariam, no seas mal educada.
 MARIAM: Soy sincera, tía, es evidente.
 KATRINA: (Habla con alguien que está dentro) Señor Otto, ¿necesita algo más? 
-OTTO: (Desde dentro) No señora, todo está perfecto.
+OTTO: (Desde dentro) No, no. Todo está perfecto.
 KATRINA: Siento que le hayamos atendido en la cocina. Como vino usted tarde…
-OTTO: (Desde dentro) Por mí no se preocupe. Aquí repaso cómodamente mis notas.
+OTTO: (Desde dentro) No te preocupes. Aquí puedo repasar mis notas.
 MARIAM: Ha venido a comer; le dará igual dónde.
 KATRINA: Ha venido a hablar con tu madre.
 MARIAM: Tía, ¡no le defiendas!
@@ -81,11 +81,11 @@ TOMÁS: Yo nunca he hecho nada a espaldas de la legalidad.
 ALCALDESA: Tú tienes la costumbre de hacer las cosas a tu aire. Te olvidas de los demás. Pero fíjate lo que te digo: algún día acabarás pagando las consecuencias… Tiempo al tiempo. Conste que te lo he advertido. Adiós muy buenas. Adiós a todos.
 JONÁS: No parecía que la alcaldesa estuviera de muy buen humor esta noche. Parece que los del Heraldo del Pueblo le cortamos la digestión.
 TOMÁS: No debemos olvidar que la alcaldesa se encuentra sola en el mundo. (Otto se acerca a Mariam).
-OTTO: Señorita, ¿no ha pensado usted en ser periodista? Es una profesión excitante.
+OTTO: ¿Y tú?, ¿no has pensado ser periodista? Es una profesión excitante.
 MARIAM: ¿Usted cree? No me lo había planteado.
-OTTO: Es una mujer inteligente y atractiva, seguro que llegaría lejos.
+OTTO: Eres inteligente y atractiva, llegarías muy lejos.
 MARIAM: ¿Por inteligente o por atractiva?
-OTTO: No me interprete mal.
+OTTO: No te pongas así.
 MARIAM: Pues piense lo que dice. Ya sé que es un periodista local. Pero debe esforzarse. (Entra Petra).
 PETRA: Buenas noches.
 TOMÁS: Mira quién está aquí; ¡buenas noches, Petra!
@@ -147,7 +147,7 @@ PETRA: ¿Qué crees que dirá nuestra tía, la alcaldesa, mamá?
 TOMÁS: ¿Y qué va a decir? Se alegrará de que haya descubierto un asunto de tanta importancia.
 JONÁS: ¿Me autoriza usted a que lo publique?
 TOMÁS: Sí, se lo agradecería mucho.
-OTTO: Se va a convertir usted en toda una eminencia de la ciudad, doctora.
+OTTO: Se va a convertir en toda una eminencia de la ciudad, doctora.
 TOMÁS: Solo cumplo con mi deber. (Petra levanta el vaso).
 PETRA: ¡Enhorabuena, mamá!
 TODOS: ¡Enhorabuena, doctora!
@@ -156,27 +156,27 @@ MARIAM: Bravo, mamá, al fin has encontrado tu cruzada. Ahora serás más feliz.
 TOMÁS: Lo hago por el bien común.
 ESCENA: ACTO SEGUNDO
 NOTA: (Al día siguiente. Por la mañana. Está Mariam y llega Otto)
-OTTO: Buenos días, señorita.
+OTTO: Buenos días, Mariam.
 MARIAM: Buenos días. Es muy temprano para visitarnos, ¿ha quedado con mi madre? ¿Quiere que la llame?
-OTTO: No, he venido a verte a ti.
+OTTO: No, no. No la llames. He venido a verte a ti.
 MARIAM: ¡Qué sorpresa! ¿Deseas algo?
-OTTO: No quisiera molestarte. Ayer me causaste una grata impresión… Me pareciste…
+OTTO: Espero que no te moleste que te diga que ayer me causaste una grata impresión… Me pareciste…
 MARIAM: … Una chica atractiva e inteligente.
-OTTO: Una mujer con carácter. Y quería conocerte mejor.
+OTTO: Una tía con carácter, que merece la pena conocer.
 MARIAM: ¿Qué quieres? Al grano…
-OTTO: Que salgamos juntos. Sí a ti te parece bien.
+OTTO: Que salgamos juntos. Quiero que salgamos juntos.
 MARIAM: ¿Me estás pidiendo una cita?
-OTTO: Creo que haríamos una buena pareja. Yo en este momento soy solo un periodista, pero con los nuevos acontecimientos estoy seguro de que mi suerte cambiará y junto a ti…
+OTTO: Tú y yo haríamos una buena pareja. Sé que ahora soy solo un periodista, pero con todo esto que está pasando, no hay nada imposible, y junto a ti…
 MARIAM: ¿No te estarás precipitando un poco? Somos dos extraños. ¿A qué viene tanta prisa por conocerme?
-OTTO: Verás, Mariam, en esta ciudad la gente es propensa a la crítica. Si te pidiera salir cuando se haga público el descubrimiento de tu madre, me tacharían de oportunista y podrían pensar que lo hago por el interés.
+OTTO: Verás, Mariam, en esta ciudad la gente es propensa a la crítica. Si te pido salir cuando se haga público lo de tu madre, me tacharán de oportunista y pensarán que lo hago por el interés.
 MARIAM: ¡Vaya! El éxito de mi madre me ha convertido en un buen partido. No busco pareja, tengo otros planes. Empiezo la universidad el próximo curso…
-OTTO: Puedo esperar a que termines la carrera. Juntos tendríamos un gran futuro. Incluso podríamos triunfar en política.
+OTTO: Puedo esperar a que termines. Juntos tenemos un gran futuro. Incluso en la política.
 MARIAM: Me admira tu capacidad de organización. Pero tengo otros planes.
-OTTO: Soy una persona seria y comprometida.
+OTTO: Soy serio, y comprometido.
 MARIAM: No lo dudo. Pero tu interés repentino por mí me resulta raro. (Se oye dentro la voz de su tía).
 KATRINA: ¡Mariam!
 MARIAM: Creo que deberías irte.
-OTTO: Piénsalo.
+OTTO: ¿Lo hablamos?.
 MARIAM: Adiós, señor Otto.
 KATRINA: ¿Es el señor Otto el que se aleja?
 MARIAM: No sé, yo no he visto a nadie.
@@ -406,7 +406,7 @@ TOMÁS: El informe es solo el principio. Ya me he formado ideas para cuatro o ci
 OTTO: (Llamando hacia la imprenta) ¡Alexia, venga usted un momento!
 JONÁS: ¿Cuatro o cinco artículos más sobre el mismo caso?
 TOMÁS: No…, sobre otros. Una cosa lleva a la otra. Es como cuando empieza a demolerse un viejo edificio, exactamente igual.
-OTTO: Perfecta analogía; no se acaba la faena hasta que no se acaba la demolición.
+OTTO: Perfecta analogía; no se acaba la faena mientras dure la demolición.
 ALEXIA: (Entrando) ¡Demoler! ¿La doctora no estará pensando en demoler el balneario?
 JONÁS: No, mujer, claro que no, no se alarme.
 TOMÁS: No, me refería a otra cosa. Y bien, ¿qué le parece mi informe, señor Jonás?
@@ -623,13 +623,13 @@ KATRINA: No te des por vencida. Tu familia te acompañará.
 TOMÁS: Gracias, Katrina. Veremos en qué acaba esto. Veremos si un rebaño de cobardes pueden silenciar la verdad. (Salen todos y Otto para a Mariam).
 OTTO: Mariam…
 MARIAM: ¿Cómo se atreve a dirigirme la palabra? Tiene usted la dignidad en números rojos. Es usted un traidor. No puede entenderlo. ¿Desea ser un político? Pues ha tomado un camino seguro.
-OTTO: Lo hago por el bien común. Su madre pretende destrozar la esperanza de nuestra ciudad.
+OTTO: Lo hago por el bien común. Tu madre quiere destrozar la esperanza de nuestra ciudad.
 MARIAM: Solo intenta defender la verdad y evitar males mayores. Hay un peligro grave.
-OTTO: Debe convencer a su madre de que espere. Ya se nos ocurrirá algo.
+OTTO: Tienes que convencer a tu madre de que se espere. Ya se nos ocurrirá algo.
 MARIAM: ¿Qué les dirán a los enfermos contagiados? Claro, ya se les ocurrirá algo.
 OTTO: El informe es demasiado alarmista. No podemos hacerlo público.
 MARIAM: Sabe, ella no me haría caso. Y yo no cargaría eso sobre mi conciencia.
-OTTO: De acuerdo, le propongo otra salida: venga conmigo y diga que no piensa como su madre. Todos la entenderán y yo estaré a su lado.
+OTTO: De acuerdo, te propongo otra cosa: ven conmigo y digadices que no estás de acuerdo con tu madre. Todos lo entenderán y yo estaré a tu lado.
 MARIAM: Sabe, yo me alejé de ella, pero usted me ha convencido de que debo apoyarla.
 OTTO: No caigas con tu familia.
 MARIAM: Otto, puede que seas un buen político. (Sale).
