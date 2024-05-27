@@ -29,7 +29,7 @@ MARIAM: Soy sincera, tía, es evidente.
 KATRINA: (Habla con alguien que está dentro) Señor Otto, ¿necesita algo más? 
 OTTO: (Desde dentro) No, no. Todo está perfecto.
 KATRINA: Siento que le hayamos atendido en la cocina. Como vino usted tarde…
-OTTO: (Desde dentro) No te preocupes. Aquí puedo repasar mis notas.
+OTTO: (Desde dentro) No se preocupes. Aquí puedo repasar mis notas.
 MARIAM: Ha venido a comer; le dará igual dónde.
 KATRINA: Ha venido a hablar con tu madre.
 MARIAM: Tía, ¡no le defiendas!
@@ -164,7 +164,7 @@ OTTO: Espero que no te moleste que te diga que ayer me causaste una grata impres
 MARIAM: … Una chica atractiva e inteligente.
 OTTO: Una tía con carácter, que merece la pena conocer.
 MARIAM: ¿Qué quieres? Al grano…
-OTTO: Que salgamos juntos. Quiero que salgamos juntos.
+OTTO: Quiero que salgamos juntos.
 MARIAM: ¿Me estás pidiendo una cita?
 OTTO: Tú y yo haríamos una buena pareja. Sé que ahora soy solo un periodista, pero con todo esto que está pasando, podría llegar muy lejos, y junto a ti…
 MARIAM: ¿No te estarás precipitando un poco? Somos dos extraños. ¿A qué viene tanta prisa por conocerme?
@@ -176,7 +176,7 @@ OTTO: Soy serio, y comprometido.
 MARIAM: No lo dudo. Pero tu interés repentino por mí me resulta raro. (Se oye dentro la voz de su tía).
 KATRINA: ¡Mariam!
 MARIAM: Creo que deberías irte.
-OTTO: ¿Lo hablamos?.
+OTTO: Piensalo.
 MARIAM: Adiós, señor Otto.
 KATRINA: ¿Es el señor Otto el que se aleja?
 MARIAM: No sé, yo no he visto a nadie.
